@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220493706637",
+    "project_id": "disquera-def03",
+    "storage_bucket": "disquera-def03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220493706637:android:360283849b43db829e39c4",
+        "android_client_info": {
+          "package_name": "cl.rsn.disquera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220493706637-fgje8r8fqt039aoq1aqfbn9elv3i4ont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxsLuv-krFnTxW-nuFfX_9F7I0fCM1Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220493706637-fgje8r8fqt039aoq1aqfbn9elv3i4ont.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
